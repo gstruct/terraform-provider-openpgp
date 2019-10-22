@@ -1,0 +1,7 @@
+build:
+  binary: terraform-provider-openpgp
+  goos:
+    - darwin
+    - linux
+  goarch:
+    - amd64

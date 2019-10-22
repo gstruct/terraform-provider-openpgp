@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/hashicorp/terraform/plugin"
 
-	"github.com/mercari/terraform-provider-openpgp/openpgp"
+	"github.com/gstruct/terraform-provider-openpgp/openpgp"
 )
 
 func main() {
