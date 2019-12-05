@@ -1,5 +1,7 @@
 build:
   binary: terraform-provider-openpgp
+  env:
+    - CGO_ENABLED=0
   goos:
     - darwin
     - linux
